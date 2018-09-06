@@ -1,0 +1,6 @@
+directories:
+  output: dist
+  buildResources: build
+productName: BoiledPlates
+appId: org.develar.ElectronReact
+electronVersion: 2.0.0
